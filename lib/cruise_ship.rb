@@ -10,6 +10,6 @@ def select_winner(passengers)
   # add the code snippet here!
   winner = ""
   select_winner.each do |suite, name|
-    if suite == :suite_a && 
+    if suite == :suite_a && name.start
   end
 end
