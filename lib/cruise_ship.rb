@@ -9,7 +9,7 @@
 def select_winner(passengers)
   # add the code snippet here!
   winner = ""
-  select_winner.each do ||
+  select_winner.each do |suite, name|
     
   end
 end
